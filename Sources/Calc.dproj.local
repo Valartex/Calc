@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.616,G:\Мой диск\Projects\Software\Calc\Sources\Unit1.pas=G:\Мой диск\Projects\Software\Calc\Sources\CalculateUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.971,=G:\Мой диск\Projects\Software\Calc\Sources\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.139,=G:\Мой диск\Projects\Software\Calc\Sources\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.979,G:\Мой диск\Projects\Software\Calc\Sources\Unit1.pas=G:\Мой диск\Projects\Software\Calc\Sources\SplitNumberUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.689,C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1.dproj=G:\Мой диск\Projects\Software\Calc\Sources\Calc.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.693,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas=G:\Мой диск\Projects\Software\Calc\Sources\MainUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.216,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.100,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.693,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.dfm=G:\Мой диск\Projects\Software\Calc\Sources\MainUnit.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
